@@ -1,0 +1,5 @@
+{
+  "name": "The Horror Engine",
+  "description": "A comprehensive generative tool for horror creators, powered by Gemini. Generate monsters, atmospheric scenarios, soundscapes, and survival mechanics.",
+  "requestFramePermissions": []
+}
